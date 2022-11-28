@@ -2,6 +2,10 @@
 layout: cv
 title: Rifaat ALSAROUT's CV
 ---
+<div>
+<img src="12087673_1045868462098034_358995688404455371_o.jpg">
+</div>
+
 Web Designer.
 
 
